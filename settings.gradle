@@ -9,4 +9,5 @@ rootProject.name = 'online_shop_microservice'
 include 'Product-service'
 include 'Order-service'
 include 'Inventory-service'
+include 'Eureka-service'
 
