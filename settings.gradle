@@ -10,4 +10,5 @@ include 'Product-service'
 include 'Order-service'
 include 'Inventory-service'
 include 'Eureka-service'
+include 'Api-gateway'
 
