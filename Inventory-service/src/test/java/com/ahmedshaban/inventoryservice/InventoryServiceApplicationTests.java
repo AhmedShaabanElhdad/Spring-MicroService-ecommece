@@ -1,10 +1,10 @@
-package com.ahmedshaban.online_shop_microservice;
+package com.ahmedshaban.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OnlineShopMicroserviceApplicationTests {
+class InventoryServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
